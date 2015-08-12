@@ -1,8 +1,12 @@
 userID
+userName
 email
 password
 facebookID
 facebookToken
-userName
 firstName
 lastName
+reputation
+rank
+gold
+games Array of game object ids
