@@ -1,0 +1,7 @@
+gameID
+gameName
+gameCreated
+gameStart
+players array of player object ids
+teritories
+rounds array of round object ids
